@@ -1,2 +1,3 @@
 # estudos
- Estudando
+ Estudando!!!
+Gerenciando repositórios.
